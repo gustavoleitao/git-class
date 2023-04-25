@@ -1,1 +1,1 @@
-console.log('editado no github sem update')
+console.log('editado no github sem update');
